@@ -1,0 +1,11 @@
+cat
+father
+help
+later
+me
+no
+please
+stand
+thanks
+yes
+you
