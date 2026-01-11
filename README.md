@@ -63,6 +63,37 @@ The Interactive Sign Language Tutor uses a YOLOv8-based AI model to detect hand 
 Mobile phone-based number learning system for deaf children. It uses a camera to recognize hand signs for numbers using a YOLOv8-trained model. The system provides simple learning tasks using basic arithmetic operations, allows students to answer using hand signs, and checks answers in real time. Based on the recognition, it provides immediate feedback such as correction or retry, making number learning interactive and child-friendly.
 
 
+# Dependencies
+
+ YOLOv8 Pretrained Model
+ 
+ localstorage : 5.0.0
+ 
+ firebase_core: 3.10.1
+ 
+ firebase_auth: 5.4.1
+ 
+ cloud_firestore: 5.6.2
+ 
+ firebase_storage: 12.4.1
+ 
+ firebase_database: 11.3.1
+ 
+ fluttertoast: 8.2.10
+ 
+ shared_preferences: 2.0.15
+ 
+ flutter_tts: 3.0.0
+ 
+ speech_to_text
+ 
+ get: 4.6.6
+ 
+ camera: 0.11.0
+ 
+ tflite_flutter: 0.11.0
+
+
 # Project Members
 
 1. Rathnasiri P.D.C  –  IT22590008
