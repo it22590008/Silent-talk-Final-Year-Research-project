@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "9347642586",
+    "firebase_url": "https://signs-app-b0068-default-rtdb.firebaseio.com",
+    "project_id": "signs-app-b0068",
+    "storage_bucket": "signs-app-b0068.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9347642586:android:4bbeb6e181d09b2c5ba1e3",
+        "android_client_info": {
+          "package_name": "com.example.sign_research_2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZEDaYrqBxjCU3C0zfNrp8zsiQ0sYldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
